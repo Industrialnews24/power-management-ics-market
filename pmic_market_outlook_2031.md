@@ -3,7 +3,7 @@
 
 ## Rising Demand for Smart, Portable, and Energy-Efficient Devices to Drive Market Growth
 
-The global Power Management Integrated Circuit (PMIC) market was valued at **US$ 32.9 billion in 2022**, and is projected to reach **US$ 56.2 billion by 2031**, growing at a **CAGR of 6.3% from 2023 to 2031**. The market is witnessing robust growth due to the increasing adoption of power-efficient electronic devices, expansion in the automotive industry, and rising demand for portable consumer electronics.
+The global [Power Management Integrated Circuit (PMIC) market](https://www.transparencymarketresearch.com/power-management-ics-market.html) was valued at **US$ 32.9 billion in 2022**, and is projected to reach **US$ 56.2 billion by 2031**, growing at a **CAGR of 6.3% from 2023 to 2031**. The market is witnessing robust growth due to the increasing adoption of power-efficient electronic devices, expansion in the automotive industry, and rising demand for portable consumer electronics.
 
 ### Analysts’ Viewpoint
 
